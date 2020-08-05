@@ -1,4 +1,4 @@
-![oie_transparent (3)](github_profile.jpg)
+![oie_transparent (3)](https://github.com/loverde-co/loverde-co/blob/master/github_profile.jpg)
 
 
 <center>
