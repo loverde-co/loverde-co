@@ -21,4 +21,4 @@
 </h5>
 <h5 align="left">💻 Swift | CocoaPods | SwiftUI | Git | CoreML | SwiftLint </h5>
 
-<h5 align="left">💼 Currenty working with iOS Development at Go.K </h5>
+<h5 align="left">💼 Currenty working with iOS Tech Lead</h5>
