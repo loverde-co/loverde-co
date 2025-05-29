@@ -19,6 +19,6 @@
 <h5 align="left">
   📌  Living in <b>Aguaí</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h5>
-<h5 align="left">💻 Swift | CocoaPods | SwiftUI | Git | CoreML | SwiftLint </h5>
+<h5 align="left">💻 Swift | SPM | CocoaPods | SwiftUI | Git | SOLID | SwiftLint </h5>
 
 <h5 align="left">💼 Currenty working with iOS Tech Lead</h5>
